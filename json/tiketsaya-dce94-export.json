@@ -1,0 +1,93 @@
+{
+  "Wisata": {
+    "Candi": {
+      "date_wisata": "August 02, 2018",
+      "harga_tiket": 26,
+      "is_festival": "1 Festival",
+      "is_photo_spot": "4 Photo Spots",
+      "is_wifi": "WiFi Available",
+      "ketentuan": "Anak berumur 3 tahun wajib beli tiket.",
+      "lokasi": "Magelang, Yogya",
+      "nama_wisata": "Candi",
+      "short_desc": "The leaning of the Tower of Candi comes.",
+      "time_wisata": "9AM to 12PM",
+      "url_thumbnail": "https://firebasestorage.googleapis.com/v0/b/tiketsaya-dce94.appspot.com/o/Wisata%2FCandi%2Fbgheader_candi.png?alt=media&token=57dffa92-2baa-440d-a9ff-d17578f0cdbc"
+    },
+    "Pagoda": {
+      "date_wisata": "May 02, 2018",
+      "harga_tiket": 63,
+      "is_festival": "1 Festival",
+      "is_photo_spot": "4 Photo Spots",
+      "is_wifi": "WiFi Available",
+      "ketentuan": "Anak berumur 3 tahun wajib beli tiket.",
+      "lokasi": "Shanghai, China",
+      "nama_wisata": "Pagoda",
+      "short_desc": "The leaning of the Tower of Pagoda comes.",
+      "time_wisata": "7PM to 12AM",
+      "url_thumbnail": "https://firebasestorage.googleapis.com/v0/b/tiketsaya-dce94.appspot.com/o/Wisata%2FPagoda%2Fbgheader_pagoda.png?alt=media&token=c1ddfb05-218a-49fc-afc3-7c1b4cd4e334"
+    },
+    "Pisa": {
+      "date_wisata": "January 22, 2018",
+      "harga_tiket": 20,
+      "is_festival": "1 Festival",
+      "is_photo_spot": "4 Photo Spots",
+      "is_wifi": "WiFi Available",
+      "ketentuan": "Anak berumur 3 tahun wajib beli tiket.",
+      "lokasi": "Pisa, Italy",
+      "nama_wisata": "Pisa",
+      "short_desc": "The leaning of the Tower of Pisa comes.",
+      "time_wisata": "10AM to 12PM",
+      "url_thumbnail": "https://firebasestorage.googleapis.com/v0/b/tiketsaya-dce94.appspot.com/o/Wisata%2FPisa%2Fbgheader_pisa.png?alt=media&token=4ffda5ca-2d74-40ac-896b-e98c17f65eee"
+    },
+    "Torri": {
+      "date_wisata": "Maret 12, 2018",
+      "harga_tiket": 10,
+      "is_festival": "1 Festival",
+      "is_photo_spot": "4 Photo Spots",
+      "is_wifi": "WiFi Available",
+      "ketentuan": "Anak berumur 3 tahun wajib beli tiket.",
+      "lokasi": "Gate, Hongkong",
+      "nama_wisata": "Torri",
+      "short_desc": "The leaning of the Tower of Torri comes.",
+      "time_wisata": "7AM to 10AM",
+      "url_thumbnail": "https://firebasestorage.googleapis.com/v0/b/tiketsaya-dce94.appspot.com/o/Wisata%2FTorri%2Fbgheader_torri.png?alt=media&token=2324cf7b-bc45-4423-8476-1ec67cc60077"
+    },
+    "Monas": {
+      "date_wisata": "Maret 20, 2018",
+      "harga_tiket": 14,
+      "is_festival": "1 Festival",
+      "is_photo_spot": "4 Photo Spots",
+      "is_wifi": "WiFi Available",
+      "ketentuan": "Anak berumur 3 tahun wajib beli tiket.",
+      "lokasi": "Gate, Hongkong",
+      "nama_wisata": "Torri",
+      "short_desc": "The leaning of the Tower of Monas comes.",
+      "time_wisata": "7AM to 7PM",
+      "url_thumbnail": "https://firebasestorage.googleapis.com/v0/b/tiketsaya-dce94.appspot.com/o/Wisata%2FMonas%2Fbgheader_monas.png?alt=media&token=49e707af-2ce4-4e8a-aa76-bd860d8ec54c"
+    },
+    "Sphinx": {
+      "date_wisata": "November 25, 2018",
+      "harga_tiket": 51,
+      "is_festival": "1 Festival",
+      "is_photo_spot": "4 Photo Spots",
+      "is_wifi": "WiFi Available",
+      "ketentuan": "Anak berumur 3 tahun wajib beli tiket.",
+      "lokasi": "Gate, Hongkong",
+      "nama_wisata": "Torri",
+      "short_desc": "The leaning of the Tower of Sphinx comes.",
+      "time_wisata": "7AM to 11AM",
+      "url_thumbnail": "https://firebasestorage.googleapis.com/v0/b/tiketsaya-dce94.appspot.com/o/Wisata%2FSphinx%2Fbgheader_sphinx.png?alt=media&token=5e314dec-48fa-4cd2-8cad-9b991715bad2"
+    }
+  },
+  "Users": {
+    "gusmanwijaya": {
+      "bio": "Traveller",
+      "email_address": "gusman@gmail.com",
+      "nama_lengkap": "Gusman Wijaya",
+      "password": "123qwe",
+      "url_photo_profile": "",
+      "user_balance": 800,
+      "username": "gusmanwijaya"
+    }
+  }
+}
